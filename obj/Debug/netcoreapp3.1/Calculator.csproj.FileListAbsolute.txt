@@ -1,0 +1,13 @@
+/mnt/Pedro/WorkSpace/Calculator/bin/Debug/netcoreapp3.1/Calculator
+/mnt/Pedro/WorkSpace/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/mnt/Pedro/WorkSpace/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/mnt/Pedro/WorkSpace/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/mnt/Pedro/WorkSpace/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/mnt/Pedro/WorkSpace/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/mnt/Pedro/WorkSpace/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/mnt/Pedro/WorkSpace/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/mnt/Pedro/WorkSpace/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/mnt/Pedro/WorkSpace/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/mnt/Pedro/WorkSpace/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/mnt/Pedro/WorkSpace/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/mnt/Pedro/WorkSpace/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
